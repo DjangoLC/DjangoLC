@@ -10,7 +10,7 @@ Hello I'm android developer looking to create awesome mobile apps
 <p>🌱 I'm currently learning javascript, node js, type script</p>
 <p>💬 Ask me about android development</p>
 <p>📫 How to reach me? gotrons2010@gmail.com</p>
-<p>I regularly write articles on <a href="https://github.com/DjangoLC">DjangoLC</a></p>
+<p>I regularly write articles on <a href="https://eperez.netlify.app/">DjangoLC</a></p>
 <p>All of my projects are available at <a href="">still in progress</a></p>
 <p>Know about my experiences <a href="https://www.linkedin.com/in/jose-enrique-perez-avalos-31234a169/">here</a></p>
 <p>⚡ Fun Fact: I like to listen hiphop and wacht freestyle battles</p>
